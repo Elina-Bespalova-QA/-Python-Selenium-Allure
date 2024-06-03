@@ -1,2 +1,3 @@
-# -Python-Selenium-Allure
+# -Python-Selenium
+
 Пример автотестов
