@@ -1,0 +1,1 @@
+{"uuid": "178d73d3-99d3-4db7-b5ec-5a5f90cba377", "children": ["f48b9ed7-0e39-441d-af4a-f8ca834a4abf"], "befores": [{"name": "test_product_view_sku", "status": "passed", "start": 1716575448232, "stop": 1716575450095}], "afters": [{"name": "test_product_view_sku::0", "status": "passed", "start": 1716575455167, "stop": 1716575457414}], "start": 1716575448232, "stop": 1716575457414}
